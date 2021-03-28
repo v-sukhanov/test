@@ -4146,6 +4146,13 @@ body {
 
 .description {
   margin: 0 15px; }
+  .description h3 {
+    color: #515769;
+    font-size: 18px;
+    display: inline;
+    margin-right: 10px; }
+  .description .description__text_p1 {
+    height: 100px; }
   .description .description__title {
     margin-top: 15px; }
     .description .description__title h3 {
